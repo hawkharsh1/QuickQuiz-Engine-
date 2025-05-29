@@ -1,7 +1,7 @@
 
 # 🚀 QuickQuiz - Interactive Quiz Application
 
-![QuickQuiz Demo](https://via.placeholder.com/800x400?text=QuickQuiz+Demo+Screen) *(replace with actual screenshot)*
+![QuickQuiz Demo](https://via.placeholder.com/800x400?text=QuickQuiz+Demo+Screen)
 
 A modern, responsive quiz application built with pure HTML, CSS, and JavaScript that connects to the OpenTDB API to deliver endless trivia questions.
 
@@ -24,6 +24,18 @@ A modern, responsive quiz application built with pure HTML, CSS, and JavaScript 
 
 - ---
 
+![QuickQuiz Demo](https://github.com/hawkharsh1/QuickQuiz-Engine-/blob/main/s4.png?raw=true)
+
+![QuickQuiz Demo](https://github.com/hawkharsh1/QuickQuiz-Engine-/blob/main/s5.png?raw=true)
+
+![QuickQuiz Demo](https://github.com/hawkharsh1/QuickQuiz-Engine-/blob/main/s1.png?raw=true)
+
+![QuickQuiz Demo](https://github.com/hawkharsh1/QuickQuiz-Engine-/blob/main/s3.png?raw=true)
+
+![QuickQuiz Demo](https://github.com/hawkharsh1/QuickQuiz-Engine-/blob/main/s2.png?raw=true)
+
+
+------
 ## 🛠️ Built With
 
 - **Frontend**:
