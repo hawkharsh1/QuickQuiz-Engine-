@@ -1,7 +1,6 @@
 
 # 🚀 QuickQuiz - Interactive Quiz Application
 
-![QuickQuiz Demo](https://via.placeholder.com/800x400?text=QuickQuiz+Demo+Screen)
 
 A modern, responsive quiz application built with pure HTML, CSS, and JavaScript that connects to the OpenTDB API to deliver endless trivia questions.
 
